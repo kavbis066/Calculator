@@ -10,3 +10,5 @@ Functions performed by this calculator:
 - Division
 - All Clear: This function will clear all the output or any number entered on the text panel.
 - Delete: This function will let the user delete any wrong digit entered.
+
+Reference Video: https://www.youtube.com/watch?v=j59qQ7YWLxw
