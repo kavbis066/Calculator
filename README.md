@@ -12,3 +12,5 @@ Functions performed by this calculator:
 - Delete: This function will let the user delete any wrong digit entered.
 
 Reference Video: https://www.youtube.com/watch?v=j59qQ7YWLxw
+
+Live link: https://kavbis066.github.io/Calculator/
